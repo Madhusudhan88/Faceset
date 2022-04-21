@@ -1,0 +1,6 @@
+	a).To Run the file Test.java we need to follow few steps:-
+		To run file using termianl we need to execute the following commands  using Terminal/commandPrompt
+			1.javac Test.java
+			2. java Test
+			
+	b). If we their is a IDE exists in the system we can open the file in IDE and Click on Run button
